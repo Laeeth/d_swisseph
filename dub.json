@@ -1,0 +1,9 @@
+{
+	"name": "d_swisseph",
+	"description": "Swiss ephemeris from Astrodienst: wrappers and bindings for the D Programming Language.",
+	"authors": ["Laeeth Isharc"],
+	"homepage": "https://github.com/Laeeth/d_swisseph",
+	"license": "Boost-1.0",
+	"dependencies": {
+	}
+}
