@@ -1,0 +1,21 @@
+  $Header: /home/dieter/sweph/RCS/swephexp.h,v 1.75 2009/04/08 07:19:08 dieter Exp $
+  SWISSEPH: exported definitions and constants 
+
+  This file represents the standard application interface (API)
+  to the Swiss Ephemeris.
+
+  A C programmer needs only to include this file, and link his code
+  with the SwissEph library.
+
+  The function calls are documented in the Programmer's documentation,
+  which is online in HTML format.
+
+  Structure of this file:
+    Public API definitions
+    Internal developer's definitions
+    Public API functions.
+
+  Authors: Dieter Koch and Alois Treindl, Astrodienst Zurich
+
+  Ported to the D Programming Language by Laeeth Isharc 2014
+  Use at your own risk
